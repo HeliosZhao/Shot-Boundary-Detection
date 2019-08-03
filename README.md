@@ -31,8 +31,8 @@ The basic algorithm I use is to calculate the difference between frames, because
 ## Result
 
 Some examples of shots
-
 <div align=center><img src="https://github.com/Checkmate986212/Shot-Boundary-Detection/blob/master/shot%20result.png" /></div>
+
 
 The shot boundary detection result of a video `never say die.mp4` is the `result.txt`
 
