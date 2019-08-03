@@ -27,4 +27,10 @@ The basic algorithm I use is to calculate the difference between frames, because
   a. Check whether the difference of the possible frame is no less than 10. 
   
   b. For every possible frame, check whether the difference is more than twice the average difference of the previous 10 frames and the subsequent 10 frames. If the requirements mentioned above are met, regard the possible frame as one of the boundary frames. 
+  
+## Result
+
+Some examples of shots
+
+The shot boundary detection result of a video `never say die` is the `result.txt`
 
